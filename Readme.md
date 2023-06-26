@@ -8,6 +8,13 @@
 
 ```
 
+Dependency installation
+```bash
+git clone https://github.com/tikitu/jsmin/
+cd jsmin
+python2.7 setup.py install
+```
+
 Description
 ===========
 
