@@ -7,13 +7,13 @@
                      /_/                                            
 
 ```
-
-Dependency installation
+# Dependency installation
 ```bash
 git clone https://github.com/tikitu/jsmin/
 cd jsmin
 python2.7 setup.py install
 ```
+Use 2.2.2: https://github.com/tikitu/jsmin/tags
 
 Description
 ===========
