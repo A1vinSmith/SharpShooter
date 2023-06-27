@@ -88,6 +88,8 @@ Examples of some use cases are provided below:
 ### Stageless JavaScript ###
 
 ```
+sudo python2 SharpShooter.py --payload js --dotnetver 4 --stageless --rawscfile ~/data/4.2.6/shell.txt --output shell
+
 SharpShooter.py --stageless --dotnetver 4 --payload js --output foo --rawscfile ./raw.txt --sandbox 1=contoso,2,3
 ```
 
