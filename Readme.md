@@ -9,7 +9,7 @@
 ```
 # Dependency installation
 ```bash
-git clone https://github.com/tikitu/jsmin/
+git clone https://github.com/A1vinSmith/jsmin/tree/release-2.2.2
 cd jsmin
 python2.7 setup.py install
 ```
@@ -86,7 +86,7 @@ optional arguments:
 Examples of some use cases are provided below:
 
 ### Stageless JavaScript ###
-
+Have to run it under the main folder of SharpShooter due to the python script hardcode dependency path.
 ```
 sudo python2 SharpShooter.py --payload js --dotnetver 4 --stageless --rawscfile ~/data/4.2.6/shell.txt --output shell
 
