@@ -15,6 +15,8 @@ python2.7 setup.py install
 ```
 Use 2.2.2: https://github.com/tikitu/jsmin/tags
 
+If above stop working, try debugging again. Maybe with this -> https://www.pizzapower.me/2021/12/22/sharpshooter-python2-7-and-pip2-installation/
+
 Description
 ===========
 
